@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\VS_code\c++\逆波兰表达式求值\逆波兰表达式求值\main.cpp(150,2): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
